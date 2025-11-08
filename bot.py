@@ -16,7 +16,7 @@ async def main():
     dp.include_router(messages.router)
 
     # Запускаем бота в режиме опроса обновлений
-    await dp.start_polling(bot)
+    await dp.start_polling(bot)git add .
 
 
 if __name__ == "__main__":
