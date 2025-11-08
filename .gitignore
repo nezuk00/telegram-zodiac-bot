@@ -125,3 +125,9 @@ dmypy.json
 
 # Database file
 bot.db
+
+.venv/
+bot.db
+.env
+__pycache__/
+*.pyc
